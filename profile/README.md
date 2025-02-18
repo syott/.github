@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.syott.ch">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/syott/syott/blob/main/assets/logo-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/syott/syott/blob/main/assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/syott/.github/blob/main/logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/syott/.github/blob/main/logo-dark.svg">
     <img alt="Syott Logo" src="https://github.com/syott/syott/blob/main/assets/logo-light.svg">
     </picture>
   </a>

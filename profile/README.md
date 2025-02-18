@@ -7,12 +7,14 @@
     </picture>
   </a>
 </p>
+
 <h1 align="center">
   Syott AG
+  
+  <br />
+  <br />
 </h1>
 
-<br />
-<br />
 
 <p align="center">
     <br />

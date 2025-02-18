@@ -11,6 +11,9 @@
   Syott AG
 </h1>
 
+<br />
+<br />
+
 <p align="center">
     <br />
     <a href="https://syott.ch"><strong>Learn more »</strong></a>
